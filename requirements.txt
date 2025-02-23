@@ -1,0 +1,10 @@
+numpy>=1.21.0
+pandas
+matplotlib>=3.5.0
+seaborn
+scikit-learn
+scipy
+tqdm>=4.62.0
+mypy>=0.910
+types-tqdm>=4.62.0
+types-matplotlib>=3.5.0
