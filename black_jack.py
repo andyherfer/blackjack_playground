@@ -668,7 +668,9 @@ if __name__ == "__main__":
         bet_multiplier=1.5,
         min_balance_threshold=1.0,
         num_hands=5,
-        initial_balance=5000,
+        initial_balance=2500,
+        min_bet=50,
+        initial_goal=2000,
     )
 
     # Run simulation with 10,000 episodes
